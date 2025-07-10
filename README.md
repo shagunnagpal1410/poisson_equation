@@ -51,8 +51,9 @@ All implementations use **Gaussian-weighted least squares** for approximating di
 
 ### 🖥 Using VS Code:
 1. Open this folder in VS Code.
-2. Press **`Ctrl + Shift + B`** to build and run the selected `.cpp` file.
-3. Make sure `task.json` points to the desired source file (`dirichlet.cpp`, etc).
+2. open task.json file and there you need to change 6june.cpp to which ever equation you want to solve say dirichlet.cpp do same for 6june.exe
+3. Press **`Ctrl + Shift + B`** to build and run the selected `.cpp` file.
+4. Make sure `task.json` points to the desired source file (`dirichlet.cpp`, etc).
 
 ### 📦 Compile Manually (if not using VS Code):
 ```bash
